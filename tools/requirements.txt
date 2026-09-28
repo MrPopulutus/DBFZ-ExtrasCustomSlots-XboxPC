@@ -1,0 +1,5 @@
+Pillow==12.3.0
+numpy==2.3.5
+etcpak==0.9.15
+texture2ddecoder==1.0.6
+archspec==0.2.6

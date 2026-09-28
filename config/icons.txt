@@ -1,0 +1,14 @@
+PCO /Game/UI/CharaSelect_S3/ext/CS_CIcon19.CS_CIcon19
+GHB /Game/UI/CharaSelect_S3/ext/CS_CIcon03.CS_CIcon03
+GKG /Game/UI/CharaSelect_S3/ext/CS_CIcon05.CS_CIcon05
+VGF /Game/UI/CharaSelect_S3/ext/CS_CIcon13.CS_CIcon13
+RDN /Game/UI/CharaSelect_S3/ext/CS_CIcon99.CS_CIcon99
+DIO /Game/UI/CharaSelect_S3/ext/CS_CIcon15.CS_CIcon15
+YUG /Game/UI/CharaSelect_S3/YUG/CS_CIcon31.CS_CIcon31
+SBG /Game/UI/CharaSelect_S3/SBG/CS_CIcon02.CS_CIcon02
+SKN /Game/UI/CharaSelect_S3/SKN/CS_CIcon14.CS_CIcon14
+OMG /Game/UI/CharaSelect_S3/OMG/CS_CIcon26.CS_CIcon26
+SVG /Game/UI/CharaSelect_S3/SVG/CS_CIcon27.CS_CIcon27
+GRN /Game/UI/CharaSelect_S3/GRN/CS_CIcon12.CS_CIcon12
+GK3 /Game/UI/CharaSelect_S3/GK3/CS_CIcon05.CS_CIcon05
+EXG /Game/UI/CharaSelect_S3/EXG/CS_CIcon45.CS_CIcon45
